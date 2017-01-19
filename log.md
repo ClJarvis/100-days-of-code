@@ -55,6 +55,24 @@
 **Today's Progress**: JavaScript30. shadows and sorting
 **Thoughts**
 weekend read didnt code
+
+### Day 11: January 16, 2017
+
+**Today's Progress**: JavaScript30. Deployed updates to site
+**Thoughts**
+
+
+### Day 12: January 17, 2017
+
+**Today's Progress**: JavaScript30.
+**Thoughts**
+
+### Day 13: January 18, 2017
+
+**Today's Progress**: Began Scratch pad app
+**Thoughts**
+Learning how HTML Canvas works
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
