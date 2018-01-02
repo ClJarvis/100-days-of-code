@@ -73,6 +73,69 @@ weekend read didnt code
 **Thoughts**
 Learning how HTML Canvas works
 
+### Day 14: January 19, 2017
+
+**Today's Progress**: Worked on Scratch pad app, Coded along with React JS at a meetup.
+**Thoughts**
+Inital reaction React is easier to learn than Angular
+
+### Day 15: January 20, 2017
+
+**Today's Progress**: JavaScript30 excercises
+**Thoughts**
+
+### Day 16: January 21, 2017
+
+**Today's Progress**: JavaScript30
+**Thoughts**
+Almost done with these
+
+### Day 17: January 22, 2017
+
+**Today's Progress**: JavaScript30, PHP
+**Thoughts**
+
+### Day 18: January 23, 2017
+
+**Today's Progress**: PHP
+**Thoughts**
+
+### Day 19: January 24, 2017
+
+**Today's Progress**: PHP
+**Thoughts**
+
+### Day 20: January 25, 2017
+
+**Today's Progress**: PHP
+**Thoughts**
+
+### Day 21: January 26, 2017
+
+**Today's Progress**: JavaScirpt30 couple excercises. Python meetup on DateTime.
+**Thoughts**
+Spent way too long looking for an error caused by a missing dot on a class.
+
+### Day 22: January 27, 2017
+
+**Today's Progress**: Finished JavaScript30
+**Thoughts**
+
+### Day 23: January 30, 2017
+
+**Today's Progress**: worked on canvas project.
+**Thoughts**
+
+### Day 24: January 31, 2017
+
+**Today's Progress**: Django in prep for PYTN
+**Thoughts**
+
+### Day 25: Febuary 2, 2017
+
+**Today's Progress**: More Django in prep for PYTN
+**Thoughts**
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
